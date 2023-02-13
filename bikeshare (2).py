@@ -163,6 +163,10 @@ def user_stats(df):
 def GPA():
     print("5 out of 5")
 
+def printinfo():
+    print("raghad altuwayjiri")
+
+
 def raw_display(df):
     raw_display= input("Would you like to view 5 rows of data?")
     start_loc= 0 
