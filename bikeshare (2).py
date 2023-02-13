@@ -165,6 +165,7 @@ def GPA():
 
 def printinfo():
     print("raghad altuwayjiri")
+    print("mis")
 
 
 def raw_display(df):
