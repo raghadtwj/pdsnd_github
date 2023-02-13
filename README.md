@@ -13,7 +13,7 @@ n this project, you will make use of Python to explore data related to bike shar
 1-chicago
 2-new_york_city
 3-washington
-4-us
+4-usa
 
 
 ### Credits
